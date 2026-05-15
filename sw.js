@@ -1,4 +1,4 @@
-const CACHE = 'brew-temp-v1';
+const CACHE = 'brew-temp-v2';
 const ASSETS = [
   '/coffee-temp/',
   '/coffee-temp/index.html',
