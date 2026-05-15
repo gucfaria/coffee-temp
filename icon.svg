@@ -1,0 +1,36 @@
+<svg width="512" height="512" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="340" cy="340" r="310" fill="#1a0a00"/>
+  <circle cx="340" cy="308" r="308" fill="none" stroke="#c8962a" stroke-width="2" opacity="0.35"/>
+  <path d="M278 148 Q263 120 278 95 Q293 70 278 46" fill="none" stroke="#f5e6d3" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M340 132 Q325 104 340 79 Q355 54 340 30" fill="none" stroke="#f5e6d3" stroke-width="4.5" stroke-linecap="round" opacity="0.55"/>
+  <path d="M402 148 Q387 120 402 95 Q417 70 402 46" fill="none" stroke="#f5e6d3" stroke-width="5" stroke-linecap="round" opacity="0.65"/>
+  <rect x="314" y="148" width="52" height="240" rx="26" fill="#2d1200" stroke="#f5e6d3" stroke-width="3"/>
+  <rect x="322" y="156" width="36" height="224" rx="18" fill="#1a0a00"/>
+  <rect x="324" y="316" width="32" height="64" rx="0" fill="#2980b9" opacity="0.45"/>
+  <rect x="324" y="210" width="32" height="106" fill="#c8962a"/>
+  <rect x="324" y="182" width="32" height="28" fill="#e07020"/>
+  <ellipse cx="340" cy="210" rx="16" ry="5" fill="#ffd700"/>
+  <rect x="305" y="198" width="11" height="4" rx="2" fill="#ffd700"/>
+  <rect x="305" y="198" width="4" height="48" rx="2" fill="#ffd700"/>
+  <rect x="305" y="242" width="11" height="4" rx="2" fill="#ffd700"/>
+  <rect x="364" y="198" width="11" height="4" rx="2" fill="#ffd700"/>
+  <rect x="371" y="198" width="4" height="48" rx="2" fill="#ffd700"/>
+  <rect x="364" y="242" width="11" height="4" rx="2" fill="#ffd700"/>
+  <rect x="356" y="174" width="12" height="2.5" rx="1" fill="#f5e6d3" opacity="0.65"/>
+  <rect x="356" y="204" width="8"  height="2"   rx="1" fill="#f5e6d3" opacity="0.45"/>
+  <rect x="356" y="234" width="12" height="2.5" rx="1" fill="#f5e6d3" opacity="0.65"/>
+  <rect x="356" y="264" width="8"  height="2"   rx="1" fill="#f5e6d3" opacity="0.45"/>
+  <rect x="356" y="294" width="12" height="2.5" rx="1" fill="#f5e6d3" opacity="0.65"/>
+  <rect x="356" y="324" width="8"  height="2"   rx="1" fill="#f5e6d3" opacity="0.45"/>
+  <circle cx="340" cy="500" r="142" fill="#2d1200" stroke="#c8962a" stroke-width="2.5"/>
+  <circle cx="340" cy="500" r="128" fill="#1a0a00" stroke="#c8962a" stroke-width="1" opacity="0.6"/>
+  <circle cx="340" cy="500" r="106" fill="#2d1200" stroke="#f5e6d3" stroke-width="3.5"/>
+  <path d="M440 460 Q510 460 510 500 Q510 540 440 540" fill="none" stroke="#f5e6d3" stroke-width="10" stroke-linecap="round"/>
+  <path d="M440 472 Q492 472 492 500 Q492 528 440 528" fill="none" stroke="#2d1200" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="340" cy="500" r="88" fill="#3d1800"/>
+  <ellipse cx="318" cy="482" rx="28" ry="18" fill="#c8962a" opacity="0.18" transform="rotate(-20 318 482)"/>
+  <ellipse cx="355" cy="515" rx="16" ry="10" fill="#c8962a" opacity="0.1" transform="rotate(10 355 515)"/>
+  <rect x="326" y="368" width="28" height="55" fill="#c8962a"/>
+  <circle cx="340" cy="422" r="20" fill="#ffd700" opacity="0.85"/>
+  <text x="340" y="507" font-family="Georgia, serif" font-size="30" fill="#f5e6d3" text-anchor="middle" font-weight="bold" letter-spacing="1" opacity="0.9">°C · °F</text>
+</svg>
