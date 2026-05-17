@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const CACHE = 'brew-temp-v4';
+=======
+const CACHE = 'brew-temp-v2';
+>>>>>>> b179f50c154efbea287d165a969553d7e6b8c4c8
 const ASSETS = [
   '/coffee-temp/',
   '/coffee-temp/index.html',
